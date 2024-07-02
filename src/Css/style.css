@@ -1,0 +1,17 @@
+.container{
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.logo{
+   background-color: blue;
+   width: 67px;
+   
+
+}
+.logo img{
+    height: 60px;
+  
+}
